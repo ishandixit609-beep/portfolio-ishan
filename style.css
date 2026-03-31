@@ -138,14 +138,6 @@ text-align:center;
 padding:100px;
 }
 
-footer{
-text-align:center;
-padding:30px;
-background:black;
-font-size:14px;
-opacity:.7;
-}
-
 @media(max-width:768px){
 
 .about{
